@@ -1,0 +1,9 @@
+[package]
+name = "kompact_template"
+version = "0.1.0"
+authors = ["Max Meldrum <max@meldrum.se>"]
+edition = "2018"
+
+[dependencies]
+kompact = { git = "https://github.com/kompics/kompact", branch = "master" }
+
